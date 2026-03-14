@@ -5,18 +5,11 @@
   "start_url": "/",
   "display": "standalone",
   "background_color": "#09090b",
-  "theme_color": "#10b981",
+  "theme_color": "#ff8904",
   "icons": [
     {
-      "src": "https://picsum.photos/seed/abacus-icon/192/192",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://picsum.photos/seed/abacus-icon/512/512",
-      "sizes": "512x512",
-      "type": "image/png"
+      "src": "./abacus-icon-512x512.png",
+      "purpose": "any"
     }
   ]
 }
