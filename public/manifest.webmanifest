@@ -11,5 +11,9 @@
       "src": "./abacus-icon-512x512.png",
       "purpose": "any"
     }
+    {
+      "src": "./abacus-icon-192x192.png",
+      "purpose": "any"
+    }
   ]
 }
