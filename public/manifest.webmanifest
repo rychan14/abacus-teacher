@@ -15,5 +15,15 @@
       "src": "./abacus-icon-192x192.png",
       "purpose": "any"
     }
+  ],
+  "screenshot": [
+    {
+      "src": "./screenshot1.png",
+      "purpose": "any"
+    },
+    {
+      "src": "./calculator view.png",
+      "purpose": "any"
+    }
   ]
 }
